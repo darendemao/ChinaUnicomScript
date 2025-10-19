@@ -1,0 +1,14 @@
+{
+  "ChinaUnicom_FlowInfo_v20.Custom.js": {
+    "version": "20.Custom",
+    "url": "https://raw.githubusercontent.com/darendemao/ChinaUnicomScript/main/ChinaUnicom_FlowInfo_v20.Custom.js"
+  },
+  "ChinaUnicom_UIConfigManager_v3.2_FixFinal.js": {
+    "version": "3.2.FixFinal",
+    "url": "https://raw.githubusercontent.com/darendemao/ChinaUnicomScript/main/ChinaUnicom_UIConfigManager_v3.2_FixFinal.js"
+  },
+  "ChinaUnicom_AutoInstaller_v1.2_GUI.js": {
+    "version": "1.2.GUI",
+    "url": "https://raw.githubusercontent.com/darendemao/ChinaUnicomScript/main/ChinaUnicom_AutoInstaller_v1.2_GUI.js"
+  }
+}
